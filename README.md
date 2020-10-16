@@ -1,8 +1,8 @@
 # Code Challenge: 
 
-![]()
+![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Alternate_Capitals/main/Images/csabi-elter-IIDxzNru2GY-unsplash.jpg)
 
-**
+*Check out the alternating capital letters on this old typewriter. Source: Csabi Elter, Upsplash.com*
 
 
 ## Code_Challenge_Alternate_Capitals
